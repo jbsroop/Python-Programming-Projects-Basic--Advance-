@@ -1,12 +1,8 @@
-Here’s a creative **README** for your **Python-Programming-Projects-Basic--Advance-** repository:  
 
----
-
-### 🚀 **Python Programming Projects (Basic to Advanced)**  
+### 🚀 **Python Programming Projects (Basic to Advanced)**
 
 Welcome to **Python-Programming-Projects-Basic--Advance-**! 🎉 This repository is a collection of fun and practical Python projects that range from beginner-friendly programs to more advanced implementations. Whether you're just starting with Python or looking to enhance your skills, this repo has something for you!  
 
----
 
 ## 📂 **Projects Included**  
 
